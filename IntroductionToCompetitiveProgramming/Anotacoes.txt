@@ -1,0 +1,2 @@
+O computador geralmente consegue em 1 seg aproximadamente 10 na 6 instruções simples.
+long int e long long int tem geralmente 64 bits.
