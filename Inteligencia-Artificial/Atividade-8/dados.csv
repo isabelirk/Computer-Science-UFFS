@@ -1,0 +1,11 @@
+clima,temperatura,humidade,vento,futebol
+chuvoso,frio,alta,intenso,nao
+ensolarado,agradavel,baixa,fraco,sim
+nublado,calor,normal,fraco,sim
+nublado,agradavel,normal,fraco,sim
+ensolarado,calor,normal,fraco,sim
+nublado,frio,normal,intenso,nao
+chuvoso,calor,alta,intenso,sim
+chuvoso,agradavel,alta,intenso,nao
+ensolarado,agradavel,baixa,intenso,sim
+nublado,frio,baixa,fraco,nao
